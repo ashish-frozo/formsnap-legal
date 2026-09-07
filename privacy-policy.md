@@ -87,4 +87,4 @@ the app will say so before the change takes effect.
 
 ## Contact
 
-Questions about this policy, or a request to delete data: **privacy@frozo.ai**
+Questions about this policy, or a request to delete data: **hello@frozo.ai**
